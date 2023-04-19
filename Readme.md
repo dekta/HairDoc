@@ -139,4 +139,4 @@ The system should be easy to maintain and update, with proper documentation .
 
 <h1>High level diagram of working flow</h1>
 
-![High Level Diagram drawio](https://user-images.githubusercontent.com/60172576/220530093-7ee747bd-2085-4337-817d-3cf1cbdbac07.png)
+<img width="406" alt="Screenshot 2023-04-19 135140" src="https://user-images.githubusercontent.com/51295793/233014906-b376d98b-1ed4-49fb-af52-6ea2315e21e7.png">
