@@ -1,5 +1,5 @@
 ## deployed
-https://hairdoc.netlify.app/
+https://hairdoc-frontend.vercel.app/
 
 <h1>It is a collaborative projects build by a team of three members</h1>
 <h3>Name of the project is HairDoc using this user can book salon appointment.</h3>
